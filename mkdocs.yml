@@ -69,16 +69,16 @@ nav:
       - Ata dia 20/11/2024: "Atas/ata_reuniao_20_11_24.md"
       - Ata dia 23/11/2024: "Atas/ata_reuniao_23_11_24.md"
   
-  # - Lean Inception:
-  #   - Visão do Produto: 'lean/visao_produto.md'
-  #   - É - Não É - Faz - Não Faz: 'lean/faz_nao_faz.md'
-  #   - Objetivos do Produto: 'lean/objetivos_produto.md'
-  #   - Jornada: 'lean/jornada_usuário.md'
-  #   - Revisão Técnica, de Negócio e de UX: 'lean/revisao_tecnica.md'
-  #   - Sequenciador: 'lean/sequenciador.md'
-  #   - Personas: 'lean/personas.md'
-  #   - Brainstorm: 'lean/brainstorms_funcionalidades.md'
-  #   - Canvas MVP: 'lean/canvas_mvp.md'
+  - Lean Inception:
+    - Visão do Produto: 'Lean_Inception/Vis_prod.md'
+    - É - Não É - Faz - Não Faz: 'Lean_Inception/E_nao_e.md'
+    - Objetivos do Produto: 'Lean_Inception/obj_prod.md'
+    - Personas: 'Lean_Inception/personas.md'
+    - Jornada: 'Lean_Inception/jornada.md'
+    - Brainstorm: 'Lean_Inception/brainstorm.md'
+    - Revisão Técnica, de Negócio e de UX: 'Lean_Inception/rev_tec.md'
+    - Sequenciador: 'Lean_Inception/sequencia.md'
+    - Canvas MVP: 'Lean_Inception/canvas_mvp.md'
   # - Documentação Técnica:
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
   #   - Documento de Arquitetura: 'organizacoes/documento_arquitetura.md'
