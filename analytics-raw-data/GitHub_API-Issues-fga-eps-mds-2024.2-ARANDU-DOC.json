@@ -10053,7 +10053,7 @@
         },
         "comments": 0,
         "created_at": "2024-11-27T01:23:45Z",
-        "updated_at": "2024-11-30T18:38:42Z",
+        "updated_at": "2025-01-25T19:57:56Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
@@ -10062,7 +10062,7 @@
             "percent_completed": 0
         },
         "active_lock_reason": null,
-        "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como [PAPEL DE USU\u00c1RIO], desejo [REALIZAR ALGO COM O SISTEMA] para que [OBJETIVO FINAL DA HIST\u00d3RIA]\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: <descrever crit\u00e9rio>;\n- [] **Crit\u00e9rio de Aceita\u00e7\u00e3o N**: <descrever crit\u00e9rio>;\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \nO prot\u00f3tipo pode ser encontrado em: <link_para_o_prot\u00f3tipo>;",
+        "body": "\n<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio (admin, professor ou aluno), desejo acessar a visualizar e gerencias as \u00e1reas do conhecimento em que estou matriculado, bem como explorar as demais \u00e1reas dispon\u00edveis. Al\u00e9m disso, quero ter a op\u00e7\u00e3o de pesquisar por \u00e1reas espec\u00edficas de conhecimento de forma pr\u00e1tica e intuitiva.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: A tela deve exibir, de forma clara, as disciplinas nas quais o usu\u00e1rio est\u00e1 matriculado, com informa\u00e7\u00f5es como nome da disciplina no campo \u201cAreas do conhecimento Matriculadas\u201d.;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 2**:  O campo de pesquisa deve permitir buscar areas de conhecimento por nome, abrangendo areas de conhecimento matriculadas e n\u00e3o matriculadas, com resultados exibidos dinamicamente.;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 3**: A tela deve conter um campo separado para listar todas as areas do conhecimento dispon\u00edveis, com um indicador visual que diferencie areas do conhecimento matriculadas das n\u00e3o matriculadas.\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 4**: O usu\u00e1rio deve poder clicar em qualquer area do conhecimento para visualizar detalhes como nome, descri\u00e7\u00e3o, professores associados e outras informa\u00e7\u00f5es relevantes.\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 5**:  Quando n\u00e3o houver areas do conhecimento listadas ou nenhuma for encontrada na pesquisa, a tela deve exibir mensagens claras informando a situa\u00e7\u00e3o ao usu\u00e1rio.\n \n## **Tarefas:**\n \n- [] **Tarefa 01:** <descrever tarefa>;\n- [] **Tarefa N:** <descrever tarefa>;\n \n## **Prot\u00f3tipo:**\n \n<!--- Aqui, podem ser adicionadas as imagens das telas do prot\u00f3tipo relacionadas \u00e0 hist\u00f3ria em quest\u00e3o-->\n\n\n<img width=\"369\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGFXQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98edf24616d96dbaa8b15d322e08f806ce6253fa/Disciplinas.png\" alt=\"Disciplinas.png\" />",
         "closed_by": null,
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/71/reactions",
