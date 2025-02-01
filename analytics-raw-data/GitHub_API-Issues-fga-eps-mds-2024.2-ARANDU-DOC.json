@@ -42,7 +42,7 @@
                 "description": ""
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "R1K4S",
@@ -91,8 +91,8 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2025-02-01T02:31:47Z",
-        "updated_at": "2025-02-01T02:31:47Z",
-        "closed_at": null,
+        "updated_at": "2025-02-01T18:43:02Z",
+        "closed_at": "2025-02-01T18:43:02Z",
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
             "total": 0,
@@ -106,10 +106,30 @@
             "html_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/pull/130",
             "diff_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/pull/130.diff",
             "patch_url": "https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/pull/130.patch",
-            "merged_at": null
+            "merged_at": "2025-02-01T18:43:02Z"
         },
         "body": "<!---[TIPO] T\u00edtulo descritivo com o conte\u00fado adicionado ou modificado (fga-eps-mds/2024.2-ARANDU-DOC#numero-da-issue)-->\r\n# Descri\u00e7\u00e3o\r\n<!---Descreve as altera\u00e7\u00f5es introduzidas pelo PR, referenciando a issue relacionada ao mesmo-->\r\nEste *pull request* adiciona atas de reuni\u00e3o, conforme previsto na *issue* fga-eps-mds/2024.2-ARANDU-DOC#19.\r\n\r\n# Revis\u00e3o\r\n<!---Descreve, uma a uma, as modifica\u00e7\u00f5es introduzidas do PR, de modo que estas sejam verificadas pelo revisor e, ap\u00f3s isso, assinaladas como revisadas na checklist-->\r\n- [ ] ata de reuni\u00e3o 29\r\n- [ ] ata  de reuniao 28\r\n# Checklist\r\n<!---Verifica\u00e7\u00f5es gerais a serem avaliadas pelo revisor quanto ao conte\u00fado do PR antes de sua aceita\u00e7\u00e3o-->\r\n- [ ] O conte\u00fado adicionado nesse PR segue o c\u00f3digo de conduta do projeto;\r\n- [ ] Foram seguidos os padr\u00f5es estabelecidos no guia de contribui\u00e7\u00e3o;\r\n- [ ] O conte\u00fado adicionado foi devidamente testado;\r\n- [ ] O conte\u00fado do PR foi revisado por membro alheio ao mesmo;\r\n- [ ] O conte\u00fado deste PR foi devidamente identado, comentado e documentado;\r\n- [ ] Para conte\u00fados de documenta\u00e7\u00e3o, foi adicionada tabela de versionamento aos artefatos.\r\n",
-        "closed_by": null,
+        "closed_by": {
+            "login": "dartmol203",
+            "id": 78980992,
+            "node_id": "MDQ6VXNlcjc4OTgwOTky",
+            "avatar_url": "https://avatars.githubusercontent.com/u/78980992?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dartmol203",
+            "html_url": "https://github.com/dartmol203",
+            "followers_url": "https://api.github.com/users/dartmol203/followers",
+            "following_url": "https://api.github.com/users/dartmol203/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dartmol203/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dartmol203/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dartmol203/subscriptions",
+            "organizations_url": "https://api.github.com/users/dartmol203/orgs",
+            "repos_url": "https://api.github.com/users/dartmol203/repos",
+            "events_url": "https://api.github.com/users/dartmol203/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dartmol203/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/130/reactions",
             "total_count": 0,
