@@ -633,11 +633,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -742,7 +742,7 @@
                 "description": null
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "LeviQ27",
@@ -839,18 +839,18 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2025-01-22T19:02:55Z",
-        "updated_at": "2025-01-22T22:27:57Z",
-        "closed_at": null,
+        "updated_at": "2025-02-02T02:54:05Z",
+        "closed_at": "2025-02-02T02:54:05Z",
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
             "total": 0,
@@ -859,7 +859,27 @@
         },
         "active_lock_reason": null,
         "body": "<!---[ENHANCEMENT] - T\u00edtulo Descritivo da Melhoria-->\n\n## **Descri\u00e7\u00e3o**\n\nDeve ser reestruturado o front-end WEB a fim de torna-lo coerente com a atual nomenclatura e defini\u00e7\u00e3o do projeto\n",
-        "closed_by": null,
+        "closed_by": {
+            "login": "gabrielm2q",
+            "id": 72149063,
+            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/gabrielm2q",
+            "html_url": "https://github.com/gabrielm2q",
+            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
+            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
+            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
+            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
+            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
+            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/126/reactions",
             "total_count": 0,
@@ -874,7 +894,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/126/timeline",
         "performed_via_github_app": null,
-        "state_reason": null
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/125",
@@ -1034,11 +1054,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -1407,11 +1427,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -1622,11 +1642,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -1836,11 +1856,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2068,11 +2088,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2283,11 +2303,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2477,11 +2497,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2671,11 +2691,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -2895,11 +2915,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -3128,11 +3148,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -3352,11 +3372,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -3555,11 +3575,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -3830,11 +3850,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -4072,11 +4092,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -4266,11 +4286,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -4478,11 +4498,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -4691,11 +4711,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -4994,11 +5014,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -5315,11 +5335,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -5646,11 +5666,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -5900,11 +5920,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6134,11 +6154,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -6906,11 +6926,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -7511,11 +7531,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -7747,11 +7767,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -7941,11 +7961,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -8135,11 +8155,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -8329,11 +8349,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -8544,11 +8564,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -8884,11 +8904,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -9114,11 +9134,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9237,11 +9257,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9541,11 +9561,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9664,11 +9684,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9787,11 +9807,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -9910,11 +9930,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -10100,11 +10120,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -10395,11 +10415,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -10690,11 +10710,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -10922,11 +10942,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -11192,11 +11212,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -11441,11 +11461,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -11530,7 +11550,7 @@
                 "description": null
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "Joao151104",
@@ -11648,18 +11668,18 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2024-11-27T01:13:16Z",
-        "updated_at": "2025-01-22T19:04:37Z",
-        "closed_at": null,
+        "updated_at": "2025-02-02T02:53:09Z",
+        "closed_at": "2025-02-02T02:53:09Z",
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
             "total": 0,
@@ -11669,22 +11689,22 @@
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio autenticado, desejo acessar as jornadas dispon\u00edveis no sistema para que possa escolher a melhor op\u00e7\u00e3o para meu aprendizado.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**:  O sistema deve exibir uma lista de jornadas dispon\u00edveis;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O usu\u00e1rio deve ser capaz de selecionar uma jornada para visualizar sua descri\u00e7\u00e3o;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: O sistema deve exibir as trilhas decorrentes da jornada em quest\u00e3o;\n \n## **Tarefas:**\n \n- [ ] **Tarefa 01:** Tela de Jornadas;\n \n## **Prot\u00f3tipo:**\n \n<img width=\"369\" src=\"https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWNQQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ddc4a8192e60d510f7ba7d9fffc14fc4de90dfa3/image.png\" alt=\"image.png\" />\n\n\nO prot\u00f3tipo pode ser encontrado em: [Figma](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=363-1505&t=zpvQLT2ucCyPU8GP-1);",
         "closed_by": {
-            "login": "gabrielm2q",
-            "id": 72149063,
-            "node_id": "MDQ6VXNlcjcyMTQ5MDYz",
-            "avatar_url": "https://avatars.githubusercontent.com/u/72149063?v=4",
+            "login": "dartmol203",
+            "id": 78980992,
+            "node_id": "MDQ6VXNlcjc4OTgwOTky",
+            "avatar_url": "https://avatars.githubusercontent.com/u/78980992?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/gabrielm2q",
-            "html_url": "https://github.com/gabrielm2q",
-            "followers_url": "https://api.github.com/users/gabrielm2q/followers",
-            "following_url": "https://api.github.com/users/gabrielm2q/following{/other_user}",
-            "gists_url": "https://api.github.com/users/gabrielm2q/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/gabrielm2q/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/gabrielm2q/subscriptions",
-            "organizations_url": "https://api.github.com/users/gabrielm2q/orgs",
-            "repos_url": "https://api.github.com/users/gabrielm2q/repos",
-            "events_url": "https://api.github.com/users/gabrielm2q/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/gabrielm2q/received_events",
+            "url": "https://api.github.com/users/dartmol203",
+            "html_url": "https://github.com/dartmol203",
+            "followers_url": "https://api.github.com/users/dartmol203/followers",
+            "following_url": "https://api.github.com/users/dartmol203/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dartmol203/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dartmol203/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dartmol203/subscriptions",
+            "organizations_url": "https://api.github.com/users/dartmol203/orgs",
+            "repos_url": "https://api.github.com/users/dartmol203/repos",
+            "events_url": "https://api.github.com/users/dartmol203/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dartmol203/received_events",
             "type": "User",
             "user_view_type": "public",
             "site_admin": false
@@ -11703,7 +11723,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/64/timeline",
         "performed_via_github_app": null,
-        "state_reason": "reopened"
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/63",
@@ -11854,11 +11874,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -12257,11 +12277,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -12366,7 +12386,7 @@
                 "description": null
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "gabrielm2q",
@@ -12589,18 +12609,18 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2024-11-27T01:02:26Z",
-        "updated_at": "2025-01-22T19:01:01Z",
-        "closed_at": null,
+        "updated_at": "2025-02-02T02:53:12Z",
+        "closed_at": "2025-02-02T02:53:12Z",
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
             "total": 0,
@@ -12609,7 +12629,27 @@
         },
         "active_lock_reason": null,
         "body": "<!---USXX - Descri\u00e7\u00e3o da US-->\n \n## **Descri\u00e7\u00e3o**\n \n\"Eu, como usu\u00e1rio, desejo gerenciar minha conta (criar, editar, visualizar e deletar), a fim de poder come\u00e7ar minha jornada de aprendizado.\"\n \n## **Crit\u00e9rios de Aceita\u00e7\u00e3o:**\n \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 01**: O sistema deve permitir que o novo usu\u00e1rio insira informa\u00e7\u00f5es obrigat\u00f3rias, como nome, e-mail e senha, durante o processo de cria\u00e7\u00e3o de conta;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 02**: O sistema deve validar os dados fornecidos, garantindo que o e-mail n\u00e3o esteja em uso;\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 03**: O sistema deve permitir que o usu\u00e1rio veja as informa\u00e7\u00f5es de sua conta. \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 04**:  O sistema deve permitir que o usu\u00e1rio edite as informa\u00e7\u00f5es de sua conta, como nome, e-mail e senha.\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 05**: O sistema deve permitir que o usu\u00e1rio confirme, de forma oculta, sua senha ao realizar o cadastro. \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 06**: O sistema deve enviar um e-mail para que o usu\u00e1rio confirme o e-mail inserido no cadastro. \n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 07**:  A senha usada deve conter uma combina\u00e7\u00e3o de elementos que aumentem a seguran\u00e7a, como ao menos oito caracteres (dentre eles, caracteres alfanum\u00e9ricos e s\u00edmbolos).\n- [ ] **Crit\u00e9rio de Aceita\u00e7\u00e3o 08**: O sistema deve permitir que o usu\u00e1rio delete sua conta.\n \n## **Tarefas:**\n \n- [x] **Tarefa 01:** Criar a p\u00e1gina de cria\u00e7\u00e3o de usu\u00e1rio e integrar com o back-end;\n- [ ] **Tarefa 02:** Criar a p\u00e1gina de Perfil e integrar com o back-end;\n- [ ] **Tarefa 03:** Criar a p\u00e1gina de Editar perfil e integrar com o back-end;\n- [ ] **Tarefa 04:** Adicionar parametriza\u00e7\u00e3o de cores e fonte da IDV;\n \n## **Prot\u00f3tipo:**\n Cadastro de usu\u00e1rio (claro e escuro):\n \n![image](https://github.com/user-attachments/assets/88254418-d8b4-41f4-b33c-40198384d6db)\n\nTela de configura\u00e7\u00f5es do usu\u00e1rio (claro e escuro):\n![image](https://github.com/user-attachments/assets/e48c2eaa-63df-4f7a-b609-1d9a996d2b3b)\n\nTela de edi\u00e7\u00e3o, dele\u00e7\u00e3o e visualiza\u00e7\u00e3o de conta (claro e escuro):\n![image](https://github.com/user-attachments/assets/c66a6102-6412-4bfe-b9a9-9d8ac673a9d3)\n\n\nO prot\u00f3tipo pode ser encontrado em: [figma](https://www.figma.com/design/lGgbvDwyutTudeTBpzdGzM/Arandu-(v.1.0)?node-id=72-1082&t=v5MKZHCBu3HkOT2j-1);",
-        "closed_by": null,
+        "closed_by": {
+            "login": "dartmol203",
+            "id": 78980992,
+            "node_id": "MDQ6VXNlcjc4OTgwOTky",
+            "avatar_url": "https://avatars.githubusercontent.com/u/78980992?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dartmol203",
+            "html_url": "https://github.com/dartmol203",
+            "followers_url": "https://api.github.com/users/dartmol203/followers",
+            "following_url": "https://api.github.com/users/dartmol203/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dartmol203/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dartmol203/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dartmol203/subscriptions",
+            "organizations_url": "https://api.github.com/users/dartmol203/orgs",
+            "repos_url": "https://api.github.com/users/dartmol203/repos",
+            "events_url": "https://api.github.com/users/dartmol203/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dartmol203/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/59/reactions",
             "total_count": 0,
@@ -12624,7 +12664,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/59/timeline",
         "performed_via_github_app": null,
-        "state_reason": null
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/58",
@@ -12838,11 +12878,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -13200,11 +13240,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -13314,11 +13354,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -13428,11 +13468,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -13542,11 +13582,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -13656,11 +13696,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -13770,11 +13810,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
@@ -13884,11 +13924,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -14667,7 +14707,7 @@
                 "description": null
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "dartmol203",
@@ -14764,18 +14804,18 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 25,
-            "closed_issues": 17,
+            "open_issues": 22,
+            "closed_issues": 20,
             "state": "open",
             "created_at": "2024-11-30T18:28:17Z",
-            "updated_at": "2025-01-29T21:04:55Z",
+            "updated_at": "2025-02-08T19:26:32Z",
             "due_on": "2025-02-01T08:00:00Z",
             "closed_at": null
         },
         "comments": 1,
         "created_at": "2024-11-19T00:32:41Z",
-        "updated_at": "2024-12-08T23:37:59Z",
-        "closed_at": null,
+        "updated_at": "2025-02-08T19:26:32Z",
+        "closed_at": "2025-02-08T19:26:32Z",
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
             "total": 0,
@@ -14784,7 +14824,27 @@
         },
         "active_lock_reason": null,
         "body": "Configurar execu\u00e7\u00e3o dos notebooks disponibilizados em [Reposit\u00f3rio da Disciplina](https://github.com/fga-eps-mds/Analytics) para o acompanhamento de m\u00e9tricas de qualidade interna.",
-        "closed_by": null,
+        "closed_by": {
+            "login": "dartmol203",
+            "id": 78980992,
+            "node_id": "MDQ6VXNlcjc4OTgwOTky",
+            "avatar_url": "https://avatars.githubusercontent.com/u/78980992?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dartmol203",
+            "html_url": "https://github.com/dartmol203",
+            "followers_url": "https://api.github.com/users/dartmol203/followers",
+            "following_url": "https://api.github.com/users/dartmol203/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dartmol203/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dartmol203/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dartmol203/subscriptions",
+            "organizations_url": "https://api.github.com/users/dartmol203/orgs",
+            "repos_url": "https://api.github.com/users/dartmol203/repos",
+            "events_url": "https://api.github.com/users/dartmol203/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dartmol203/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/43/reactions",
             "total_count": 0,
@@ -14799,7 +14859,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/43/timeline",
         "performed_via_github_app": null,
-        "state_reason": null
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-ARANDU-DOC/issues/42",
@@ -14989,11 +15049,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -15183,11 +15243,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -17835,11 +17895,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -18029,11 +18089,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -18473,11 +18533,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -18822,11 +18882,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -19162,11 +19222,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -19365,11 +19425,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -19568,11 +19628,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -19762,11 +19822,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -19965,11 +20025,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 2,
-            "closed_issues": 24,
+            "open_issues": 1,
+            "closed_issues": 25,
             "state": "open",
             "created_at": "2024-11-30T18:27:30Z",
-            "updated_at": "2025-01-29T21:05:00Z",
+            "updated_at": "2025-02-02T02:53:12Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
