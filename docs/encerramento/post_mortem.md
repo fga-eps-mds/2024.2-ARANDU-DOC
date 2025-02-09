@@ -21,10 +21,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 ## **Relatos**
 
 * **André Corrêa da Silva**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
+  * **Aspectos Positivos:** Senti uma grande integração entre a equipe e interesse da mesma em entregar algo de valor para o cliente. Acredito que foi de grande valor para a formação de todos os participantes, sendo que cada qual aprendeu de forma diferente.
+  * **Pontos de Melhoria:** Acredito que poderia ter tido mais organização durante o semestre no escopo de tempo, de forma a deixar melhor distribuido para outras disciplinas
+  * **Opinião Geral:** Acredito que, no geral, foi um projeto bom, com uma entrega de bom valor. Considerando o tempo e o semestre, o produto entregue atende as espectativas, além de ter gerado um alto nível de conhecimento aos integrantes.
+  * **Recomendações:** A fim de auxiliar os próximos, recomendo um estudo desde o início do semestre quanto a flutter e computadores com ao menos 8GiB de RAM. Além disso, é de suma importância uma gestão de tempo de todos para garantir uma saúde mental da equipe.
 
 <br />
 
@@ -93,10 +93,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 <br />
 
 * **Marina Agostini Galdi**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
+  * **Aspectos Positivos:** Ótima oportunidade para aprender flutter e MVVM, um projeto bem organizado e padronizado.
+  * **Pontos de Melhoria:** Mais testes e não ter um recesso no meio do semestre para evitar atraso no escopo.
+  * **Opinião Geral:** O projeto foi muito bom para o meu aprendizado e para uma maior compreensão de tudo que precisa no desenvolvimento de um software. Gostei muito de ter escolhido o arandu apesar dele ser bem trabalhoso.
+  * **Recomendações:** Estude flutter, orientação a objetos e MVVM. Tenha uma máquina com mais de 4 de ram.
+
 
 <br />
 
