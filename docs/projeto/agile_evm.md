@@ -5,7 +5,7 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 0.1 | 19/12/24 | Criação do documento | Gabriel Mariano |
-| 0.2 | 09/02/24 | Adição dos Gráficos | Gabriel Mariano |
+| 0.2 | 09/02/25 | Adição dos Gráficos | Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
