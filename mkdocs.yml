@@ -82,6 +82,7 @@ nav:
     - Sequenciador: 'Lean_Inception/sequencia.md'
     - Canvas MVP: 'Lean_Inception/canvas_mvp.md'
   - Documentação Técnica:
+    - Instruções de Execução e Endopoints: 'projeto/execucao.md'
     - Documento de Arquitetura: 'projeto/arquitetura.md'
   #   - Termo de Abertura do Projeto: 'organizacoes/tap.md'
     - Visão de Dados: 'projeto/vis_dados.md'
