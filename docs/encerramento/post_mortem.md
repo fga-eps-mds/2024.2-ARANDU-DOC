@@ -5,6 +5,7 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 0.1 | 09/02/2025 | Criação do documento | André Corrêa e Gabriel Mariano |
+| 0.1 | 09/02/2025 | Atualização do documento | André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -77,10 +78,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 <br />
 
 * **Isabella Mendes Choukaira**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
+  * **Aspectos Positivos:** grupo bem entrosado e comprometido, possibilidade de utilização e aprendizado de flutter , além de poder mexer tanto com app ou web.
+  * **Pontos de Melhoria:** aumentar a cobertura dos testes, melhoria das telas para cumprimento da identidade visual proposta durante o projeto, além disso uma melhor organização levando em conta a tecnologia escolhida para o app que atrasou consideravelmente o projeto por ser novidade para a maioria.
+  * **Opinião Geral:** Para mim foi desafiador mexer com uma tecnologia que nunca tive contato, contudo foi muito interessante mexer com app, creio que mesmo com os vários percalços tivemos um boa entrega.
+  * **Recomendações:** recomento configurar o ambiente de desenvolvimento quanto antes possível para mexer no app e dar uma estudada nas tecnologias antes de iniciar.
 
 <br />
 
@@ -102,10 +103,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 <br />
 
 * **Ricardo Henrique Silva Rodrigues**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
+  * **Aspectos Positivos:** O projeto apresenta uma usabilidade muito eficiente, considerando o contexto em que será aplicado. Nosso cliente pretende implementá-lo na Universidade de Brasília (UnB), e ele será de grande ajuda para os alunos. Na minha percepção, a biblioteca digital da UnB, além de ser restrita aos alunos, não possui uma usabilidade tão ampla e funcional quanto este projeto. A identidade visual do aplicativo demonstra originalidade e profissionalismo, o que facilita bastante a experiência do usuário. A escalabilidade e os padrões visuais adotados permitem que outras telas sejam criadas com facilidade, mantendo a consistência do design.
+  * **Pontos de Melhoria:** A identidade visual do site precisa ser atualizada para seguir a identidade criada para o aplicativo. Melhorar e implementar novas experiências do usuário para facilitar a aprendizagem e a criação de conteúdos. Alinhar a identidade visual atual do aplicativo com o protótipo criado no Figma. Implementar gamificação para engajar os usuários. Utilizar o mascote do aplicativo como guia para o usuário, tornando a experiência mais interativa e amigável.
+  * **Opinião Geral:** Na minha opinião, fizemos um excelente trabalho. O aplicativo é funcional, possui uma identidade visual interessante e se apresenta de forma responsiva e atraente. A identidade visual, na qual tive grande participação, agradou bastante ao cliente, e a logo do aplicativo é muito chamativa.
+  * **Recomendações:** Como atuei bastante na parte visual do aplicativo, recomendo que, para os próximos protótipos, as pessoas estudem o Material 3. O Flutter possui diversos widgets que facilitam a programação, especialmente em relação à personalização de temas. Para aplicar as cores no aplicativo, recomendo utilizar este link: https://rydmike.com/flexcolorscheme/themesplayground-latest/. Na parte de programação, como mencionei, o Flutter já oferece muitos widgets prontos, que podem ser adaptados para se alinharem à identidade visual do projeto. NOTA:É IMPORTANTE UTILIZAR AS CORES DO THEME BAR PARA QUE O APLICATIVO SEJA RESPONSIVO COM A COR DO APARELHO
 
 <br />
 
