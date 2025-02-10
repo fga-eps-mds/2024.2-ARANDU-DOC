@@ -7,6 +7,7 @@
 | 0.1 | 09/12/24 | Criação do documento | Gabriel Mariano |
 | 1.0 | 09/12/24 | atualização do documento | André Corrêa |
 | 2.0 | 20/12/24 | atualização do documento | André Corrêa |
+| 2.1 | 09/02/25 | atualização do documento | André Corrêa |
 
 *Tabela 1: Versionamento*
 
@@ -86,7 +87,7 @@ O Diagrama de Arquitetura mostra a estrutura planejada do projeto Arandu, enfati
 
 <iframe style="border:none" width="1600" height="900" src="https://whimsical.com/embed/Ltup7BCojXTtkku7Hzi4V2"></iframe>
  
-**Autor:** *Calculus* Team 2024.1
+**Autor:** *Calculus* Team 2024.2
 
 ## Deploy
 
