@@ -20,6 +20,8 @@ Abaixo, a disposição dos pareamentos ao longo do projeto:
 
 ### Pareamentos
 
+#### Pareamentos Iniciais
+
 | **User Story (U.S.)** | **Objetivo Geral da U.S.** | **Objetivo Específico** | **Squad** ou **Pareamento** |
 | :-: | :-: | :-: | :-: |
 | [**US01**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/58) | Realizar Autenticação | Realizar Login | Danilo Melo e João Filipe |
@@ -44,6 +46,10 @@ Abaixo, a disposição dos pareamentos ao longo do projeto:
 | [**US03**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/60) | Recuperar Conta | Configurar E-mail de Redefinição | Gabriel Mariano |
 
 *Tabela 4: Pareamentos da US03*
+
+#### Demais Pareamentos
+
+Os demais pareamentos para as atividades restantes das histórias supracitadas e para as demais histórias foram realizados nas reuniões de planejamento realizadas, podendo ser acompanhados através dos (principais) responsáveis pelas mesmas no *Zenhub* da equipe.
 
 <!--
 | [**US04**](https://github.com/fga-eps-mds/2024.2-ARANDU-DOC/issues/66) | Acessar Disciplinas | a definir | a definir |
