@@ -5,7 +5,8 @@
 | **Versão** | **Data** | **Modificação** | **Responsável** |
 | :-: | :-: | :-: | :-: |
 | 0.1 | 09/02/2025 | Criação do documento | André Corrêa e Gabriel Mariano |
-| 0.1 | 09/02/2025 | Atualização do documento | André Corrêa e Gabriel Mariano |
+| 0.2 | 09/02/2025 | Atualização do documento | André Corrêa e Gabriel Mariano |
+| 0.3 | 09/02/2025 | Atualização do documento | André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -111,11 +112,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 <br />
 
 * **Yasmin Moreira do Nascimento**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
-
+  * **Aspectos Positivos:** Desenvolvimento de habilidades na configuração do ambiente de desenvolvimento. Aquisição de conhecimentos sobre conceitos básicos de testes de software. Aprendizado da linguagem Dart, fundamental para o desenvolvimento com Flutter. Criação de aplicativos móveis utilizando o Flutter, ampliando a experiência prática. Manipulação e integração com APIs, aprimorando a interação com dados externos. Uso do Figma para prototipação e design de interfaces, melhorando a visualização do produto final. Aperfeiçoamento das habilidades de trabalho em grupo, promovendo colaboração e troca de ideias.
+  * **Pontos de Melhoria:** A interface visual do site precisa ser aprimorada, tornando-a mais intuitiva e agradável para o usuário. No aplicativo, a opção de login sem autenticação via passkeys precisa ser implementada, oferecendo alternativas de acesso. Na tela de "Ingressar em Disciplina" do aplicativo, ao ingressar, o usuário é redirecionado para a tela de jornada. No entanto, ao clicar em "Voltar" na tela de jornada, o redirecionamento ocorre para a tela de "Ingressar", quando o esperado seria que voltasse para a tela de disciplinas.
+  * **Opinião Geral:**  No geral, o projeto está avançando bem, embora ainda haja alguns ajustes a serem feitos. Em relação à minha experiência, no começo foi desafiador, especialmente no primeiro contato com o GitHub, o aplicativo e a linguagem. No entanto, com o tempo, fui me acostumando e, no final, ficou mais tranquilo trabalhar no projeto.
+  * **Recomendações:** Ter 8 GB de RAM no computador para garantir o desempenho necessário ao utilizar os pacotes essenciais para o desenvolvimento do app. Possuir um conhecimento básico em Flutter e estar sempre que puder presente nas reuniões e no desenvolvimento do app, aproveitando ao máximo os momentos de colaboração. Além disso, utilizar constantemente a documentação do Flutter para resolver dúvidas e aprimorar a implementação das funcionalidades.
+ 
 ## **Conclusão**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eget massa egestas tristique. Vestibulum vel ex rutrum, venenatis augue non, efficitur sem. Praesent eleifend sed dui quis gravida. Nulla dui nisl, sollicitudin eu urna id, consequat ullamcorper massa.
