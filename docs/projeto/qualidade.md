@@ -6,6 +6,7 @@
 | :----: | :------: | :-------------------------------------:             |   :------------------------:    |
 | 1.0.0  | 08/12/24 |                 Criação                             | André Corrêa e Gabriel Mariano  |
 | 1.0.0  | 09/12/24 |      estruturação do documento                      | André Corrêa |
+| 1.1.0  | 09/02/25 |      atualização do documento                      | André Corrêa |
 
 ## 1. Introdução
 
@@ -39,6 +40,10 @@ A cada história desenvolvida, será realizada uma validação com um formulári
 
 Também devem ser desenvolvidos diversos testes automatizados de software, para que seja possivel garantir a estabilidade do mesmo com a evolução do sistema.
 
-Serão desenvolvidos testes unitários que devem cubrir ao menos **90%** do código fonte.
+Serão desenvolvidos testes unitários que devem cubrir ao menos **60%** do código fonte.
 
 Esse documento vai ser evoluído com o desenvolvimento do projeto e estruturação da equipe.
+
+### Notebook de métricas
+
+Depois das coletas de métricas, tem-se a execução dos notebooks jupyter, esses que mostram seis métricas de qualidade, sendo elas relacionadas a confiabilidade e manutenibilidade do projeto. Essas medidas servem para direcionar o desenvolvimento quanto os fatores de qualidade.

@@ -101,5 +101,5 @@ nav:
   #   - Dojo Git: 'dojo/dojo-git.md'
   #   - Dojo Docker: 'dojo/dojo-docker.md'
   #   - Dojo Frontend: 'dojo/dojo-frontend.md'
-  # - Encerramento:
-  #   - Post Mortem: 'encerramento/post-mortem.md'
+  - Encerramento:
+    - Post Mortem: 'encerramento/post_mortem.md'
