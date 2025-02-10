@@ -70,10 +70,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 <br />
 
 * **Dylan Portela Cavalcante**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
+  * **Aspectos Positivos:** Implementação do app na esfera mobile, possibilitando um design  específico para telas e interações de dispositivos móveis android, oferecendo uma experiência mais fluida e nativa.
+  * **Pontos de Melhoria:** Adicionar mais interatividade nas telas de conteúdo para engajar o usuário a continuar usando a aplicação.
+  * **Opinião Geral:** AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA! Apesar do estresse nas primeiras semanas a experiência final foi incrível! Foi muito legal participar da criação do app e espero que ele seja lançado logo!
+  * **Recomendações:**  Leiam a documentação do flutter para evitar dor de cabeça, principalmente na questão de organização do código!
 
 <br />
 
