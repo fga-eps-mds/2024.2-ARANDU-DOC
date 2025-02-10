@@ -38,10 +38,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet mauris eg
 <br />
 
 * **Gabriel Costa de Oliveira**
-  * **Aspectos Positivos:**
-  * **Pontos de Melhoria:**
-  * **Opinião Geral:**
-  * **Recomendações:**
+  * **Aspectos Positivos:** Injeção de dependência e Uso de Command
+  * **Pontos de Melhoria:** Tentamos seguir ao máximo o guia de arquitetura do Flutter guia, porém não implementamos o Repository nas telas
+  * **Opinião Geral:** Foi muito bom trabalhar nesse projeto, espero que ele seja lançado semestre que vem. No mais, estou aqui para tirar qualquer dúvida.
+  * **Recomendações:** A documentação oficial do Flutter é muito boa, leia ela. Coloque pelo menos 400GB na partição do seu Linux, você vai precisar de muito espaço no disco para baixar tudo. Baixe os emuladores pelo Android Studio. Não use o Android Studio para programar, ele é muito pesado. Você consegue usar o NEOVIM ou o VSCode.
 
 <br />
 
